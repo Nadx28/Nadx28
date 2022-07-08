@@ -1,8 +1,7 @@
 
 
-[![Nadx28's github stats](https://github-readme-stats.vercel.app/api?username=Nadx28&count_private=true&show_icons=true)](https://github.com/Nadx28/github-readme-stats)
-
-[![Nadx28's github stats](https://github-readme-stats.vercel.app/api?username=Nadx28&count_private=true&show_icons=true&theme=radical)](https://github.com/Nadx28/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=jay2098&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nadx28&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadx28
 
 
